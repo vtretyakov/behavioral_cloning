@@ -4,7 +4,7 @@ import numpy as np
 
 #stearing adjustments
 correction = 0.2
-epochs = 3
+epochs = 5
 
 lines = []
 with open ('training/driving_log.csv') as csvfile:
