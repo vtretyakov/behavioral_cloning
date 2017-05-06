@@ -90,3 +90,4 @@ ENV/
 
 #training sets
 training*/*
+mac_sim.app
