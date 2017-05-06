@@ -89,5 +89,4 @@ ENV/
 .ropeproject
 
 #training sets
-training/*
-training_sets/*
+training*/*
