@@ -90,4 +90,3 @@ plt.xlabel('epoch')
 plt.legend(['training set', 'validation set'], loc='upper right')
 plt.show()
 
-
