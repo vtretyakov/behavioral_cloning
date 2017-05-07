@@ -89,5 +89,5 @@ ENV/
 .ropeproject
 
 #training sets
-training*/*
+training*/IMG/*
 mac_sim.app
